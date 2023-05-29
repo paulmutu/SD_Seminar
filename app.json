@@ -1,0 +1,26 @@
+{
+  "id": "deeb7feb-2714-4684-8d82-b63a107070c2",
+  "name": "SD Seminar",
+  "publisher": "D.E. Veloper",
+  "version": "1.0.0.0",
+  "brief": "Short description of the extension",
+  "description": "Longer description of the extension",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://paulinho.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
