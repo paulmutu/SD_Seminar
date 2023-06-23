@@ -1,1 +1,1 @@
-﻿{"Added":[],"Modified":[],"Removed":[]}
+﻿{"Added":[],"Modified":[{"Id":50112,"Kind":10,"Name":"Seminar Charge","PackagePath":"/src/Tables/tab12_seminarCharge.al"},{"Id":50110,"Kind":12,"Name":"Seminar Registration","PackagePath":"/src/Pages/pag10_seminarRegistration.al"},{"Id":50100,"Kind":10,"Name":"CSD Seminar Setup","PackagePath":"/src/Tables/tab00_SeminarSetup.al"},{"Id":50111,"Kind":10,"Name":"CSD Seminar Reg. Line","PackagePath":"/src/Tables/tab11_seminarRegistrationline.al"}],"Removed":[]}

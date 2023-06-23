@@ -20,7 +20,8 @@ table 50104 "CSd Seminar comment line"
         {
             Caption = 'No';
             TableRelation = if ("Table Name" = const(seminar))
-            "CSD Seminar";
+            "CSD Seminar";//else
+                          // if ("Table Name" = const("Seminar registration")) "CSD Seminar Reg. header";
         }
         field(40; "line No."; Integer)
         {
